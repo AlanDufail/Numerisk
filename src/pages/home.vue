@@ -9,10 +9,12 @@
         </div>
     </section>
     <imageCard />
+    <PinCard />
 </template>
 
 <script setup>
 import imageCard from '../components/imageCard.vue';
+import PinCard from '../components/PinCard.vue';
 
 </script>
 
@@ -39,7 +41,7 @@ import imageCard from '../components/imageCard.vue';
             position: absolute;
             z-index: 99;
             right: 5vw;
-            top: -5vh;
+            top: -6vh;
         }
 
         &_flower:hover {
