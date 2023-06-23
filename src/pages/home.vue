@@ -1,7 +1,7 @@
 <template>
     <section class="container">
         <div class="home">
-            <h1 class="home_title"> Numērisk by Isoskēle,<br>la plateforme qui lutte <br> pour la sécurité <br> numérique des jeunes </h1>
+            <h1 class="home_title"> Numērisk by Isoskēle,<br>la plateforme qui agit <br> pour la sécurité <br> numérique des jeunes </h1>
         </div>
         <div class="image_container">
             <img src="../assets/flower.svg" alt="petite image de fleur" class="home_flower">
